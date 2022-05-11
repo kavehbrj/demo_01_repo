@@ -1,7 +1,6 @@
 ## Git Demo for New Team
 
 1.Conncept 
-
 2.Basic Commands
 
 3.Github
