@@ -1,6 +1,6 @@
 ## Git Demo for New Team
 
-1.Conncept   
+1.Concept   
 2.Basic Commands  
 3.Github  
 4.VS Code  
@@ -9,3 +9,5 @@
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+New New
